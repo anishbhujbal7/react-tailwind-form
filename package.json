@@ -1,0 +1,49 @@
+{
+  "name": "react-tailwind-css-starter-pack",
+  "version": "0.1.0",
+  "homepage": "https://anishbhujbal7.github.io/react-tailwind-form",
+  "private": true,
+  "dependencies": {
+    "gh-pages": "^6.3.0",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "web-vitals": "^2.1.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anishbhujbal7/react-tailwind-form.git"
+  },
+  "author": "Anish Bhujbal",
+  "bugs": {
+    "url": "https://github.com/anishbhujbal7/react-tailwind-form/issues"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
