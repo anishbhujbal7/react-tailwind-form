@@ -29,5 +29,5 @@ This project is a fully functional form component built using **React** and styl
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/react-tailwind-form.git
+git clone (https://github.com/anishbhujbal7/react-tailwind-form.git)
 cd react-tailwind-form
