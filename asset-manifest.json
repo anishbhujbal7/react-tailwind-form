@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-tailwind-form/static/css/main.91662a8c.css",
+    "main.js": "/react-tailwind-form/static/js/main.18f4b102.js",
+    "index.html": "/react-tailwind-form/index.html",
+    "main.91662a8c.css.map": "/react-tailwind-form/static/css/main.91662a8c.css.map",
+    "main.18f4b102.js.map": "/react-tailwind-form/static/js/main.18f4b102.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.91662a8c.css",
+    "static/js/main.18f4b102.js"
+  ]
+}
